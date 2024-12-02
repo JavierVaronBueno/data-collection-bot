@@ -26,8 +26,8 @@ Sigue estos pasos para configurar el proyecto en tu sistema local:
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone <url_del_repositorio>
-cd <nombre_del_repositorio>
+git clone https://github.com/JavierVaronBueno/data-collection-bot.git
+cd data-collection-bot
 ```
 
 ### 2. Configurar un Entorno Virtual
